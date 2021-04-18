@@ -163,5 +163,5 @@
 		}
 
 		// call draw function every 200 ms / speed
-		let movement = 260;
+		let movement = 300;
 		let game = setInterval(draw,movement);
